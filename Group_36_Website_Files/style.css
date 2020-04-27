@@ -1,0 +1,233 @@
+body {
+margin: 0;
+padding: 0;
+font-family: 'Arial', serif;
+}
+
+.nav {
+	background-color:#ffffff;
+	color:#000000;
+    list-style: none;
+    text-align: right;
+    padding: 20px 0 0 0;
+}
+
+.nav > li {
+    display: inline-block;
+    padding-right: 50px;
+    font-size: 12px;
+}
+
+.nav > li > a {
+    text-decoration: none;
+    color: #000000;
+}
+.nav > li > a:hover {
+    color: #c1c1c1;
+}
+
+
+.logo{
+color: #000000;
+float: left;
+    padding-left: 25px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.logo > a {
+    text-decoration: none;
+    color: #000000;
+}
+.banner {
+    width: 100%;
+    display: block;
+}
+.banner > .banner-image {
+    width: 100%;
+    display: block; 
+    
+}
+
+
+
+.service1 {
+    width: 298px;
+    border: 1px solid #c1c1c1;
+    margin: 20px 10px;
+    padding 0 5px;
+    float: left;
+}
+
+.service1 > p {
+    font-size: 14px;
+    color; 636363;
+    max-width: 250px;
+}
+.services {
+    width: 1000px;
+    margin: 0 auto;
+    }
+
+h1 {
+font-size: 16px;    
+font-weight: bold;
+background-color: #c1c1c1;
+color: #ffffff;
+padding: 10px 0;
+margin: 0 -6px;
+}
+.image {
+    max width: 100px;
+    max-height: 100px;
+    margin: 15px 0 0 0;
+    
+}
+.heading {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.RegForm {
+    
+body
+margin: 100px;
+text-align: center;
+align: center;
+}
+{
+    input[type=text],[type=password],[type=number]
+width: 20%;
+margin: 8px 0;
+padding: 7px 10px;
+display: inline-block;
+border:1px solid #ccc;
+box-sizing: border-box;
+}
+{ button
+background-color:#4CAF50;
+width: 10%;
+padding: 9px 5px;
+margin:5px 0;
+cursor:pointer;
+border:none;
+color:#ffffff;
+margin-left: 80px;
+
+button:hover
+opacity:0.8;
+}
+{ #fn,#ln,#un,#pwd,#em,#mn,#fm,#cy
+font-family:'Lato', sans-serif;
+color: gray;
+
+#em
+margin-left:30px;
+}
+}
+
+/* Login form css */
+.Login { 
+    
+body
+margin: 100px 0px;
+padding:0px;
+text-align:left;
+align:center;
+}
+input[type=text], input[type=password]{
+width:20%;
+padding:7px 10px;
+margin: 8px 0;
+display:inline-block;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+button{
+background-color:#4CAF50;
+width: 10%;
+padding: 9px 5px;
+margin:5px 0;
+cursor:pointer;
+border:none;
+color:#ffffff;
+}
+button:hover{
+opacity:0.8;
+}
+#un,#ps{
+font-family:'Lato', sans-serif;
+color: gray;
+}
+/* Login form css */
+}
+
+.cars {
+    width: 298px;
+    border: 1px solid #c1c1c1;
+    margin: 20px 10px;
+    padding 0 5px;
+    float: left;
+}
+
+.cars > p {
+    font-size: 14px;
+    color; 636363;
+    max-width: 250px;
+}
+.cars {
+    width: 1000px;
+    margin: 0 auto;
+    }
+
+h2 {
+font-size: 16px;    
+font-weight: bold;
+background-color: #c1c1c1;
+color: #ffffff;
+padding: 10px 0;
+margin: 0 -6px;
+}
+.image {
+    max width: 100px;
+    max-height: 100px;
+    margin: 15px 0 0 0;
+    
+}
+
+ /*Car Page*/ 
+
+.service1 {
+    width: 298px;
+    border: 1px solid #c1c1c1;
+    margin: 20px 10px;
+    padding 0 5px;
+    float: left;
+}
+
+.service1 > p {
+    font-size: 14px;
+    color; 636363;
+    max-width: 250px;
+}
+.services {
+    width: 1000px;
+    margin: 0 auto;
+    }
+
+h1 {
+font-size: 16px;    
+font-weight: bold;
+background-color: #c1c1c1;
+color: #ffffff;
+padding: 10px 0;
+margin: 0 -6px;
+}
+.image {
+    max width: 100px;
+    max-height: 100px;
+    margin: 15px 0 0 0;
+    
+}
+
