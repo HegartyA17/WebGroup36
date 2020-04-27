@@ -1,0 +1,43 @@
+Web Application Design - Group 36
+
+Admins and Web developers 
+
+Iona McAtackney mcatackney-i@ulster.ac.uk
+Conal Tyre tyre-c@ulster.ac.uk
+Adam Heggarty a17@ulster.ac.uk 
+Hannah Callaghan callaghan-H@ulster.ac.uk
+
+Files included 
+
+About Us.html and css stylesheet - web page describing the car dealerhsip organistation.  
+
+Cars.html and css stylesheet - web page showcasing vehicles
+	
+Contact Us.html and css stylesheet web page - listed with methods to contact the car dealership organisation.
+	
+Index.html and css stylesheet - web page showing the websites home page
+
+Login_cd.html and Login_cd.css - web page for existing customers to type in their credentials to login. 
+
+Registration_cd.html and Registration_cd.css - web page for new customers to register to the car dealership website 
+
+Reviews.html and css stylesheet - web page to showcase reviews written by existing customers. 
+
+
+Customers 
+
+Email Adresses/Usernames:	Passwords:
+
+j.quinn12@hotmail.com		Bailey.333
+mullan_c33@gmail.com		Mullan78
+annamccusker133@hotmail.com	Snowy.33
+e.mccarney@yahoo.co.uk		Sunshine44
+una.martin93@hotmail.co.uk	Lurgan.una
+m.kearney3@hotmail.com		Millie447
+jo_muldoon9@gmail.co.uk		Derry99
+kwoods3456@hotmail.com		Woods77
+monaghan.ciara2@gmail.com	Monaghan60
+shaneburrows44@outlook.com	Bonnie88
+aoife.kelly67@gmail.co.uk	Kells..45
+healy22cate@hotmail.com		Catie.12
+
